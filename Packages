@@ -1,0 +1,20 @@
+
+Package: com.user.axon
+Name: Axon
+Version: 0.1.9
+Maintainer: Nepeta 
+Author: Nepeta 
+Description: Priority Hub for iOS 11 and 12 (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 508
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: debs/axon_0.1.9_iphoneos-arm.deb
+Depiction: https://user.github.io/reponame/
+Icon: https://repo.nepeta.me/icons/me.nepeta.axon.png
+Size: 125674
+MD5Sum: 65638ec9df38f56b39b4bfd8c3271205
+SHA1: cfacd6840a6b6e10639c5fc0db7b0ba0e1af20d9
+SHA256: e1ee42c64f9fffc3e8d39312d7185f4a1a915962dc02faf75553f66dcccb3c1e
+SHA512: 02dcc0a1cb3c49f3e86847f130d0319b66762e72c893232fbe86e3873f17292e9eda28ddb5fb0e5ae58bb5232403a6118f8101309995ec70d04d8be471eb8183
