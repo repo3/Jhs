@@ -5,7 +5,7 @@ Version: 0.1.9
 Maintainer: Nepeta 
 Author: Nepeta 
 Description: Priority Hub for iOS 11 and 12 (If you can't see the depiction, please use Cydia or Zebra).
-Section: Tweaks
+Section: hack
 Installed-Size: 508
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
