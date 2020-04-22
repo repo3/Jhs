@@ -25,12 +25,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "2.8",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Last Updated",
-					"text": "September 15, 2019",
+					"text": "September 20, 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -40,7 +40,7 @@
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 10.0 - 12.4",
+					"text": "iOS 11.0 - 13.4",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -55,7 +55,7 @@
 				},
 				{
 					"title": "Contact Developer",
-					"action": "mailto:abc@gmail.com",
+					"action": "sarray0110@gmail.com",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -64,11 +64,11 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"spacing": 16,
+					"spacing": 18,
 					"class": "DepictionSpacerView"
 				},
 				{
-					"spacing": 20,
+					"spacing": 24,
 					"class": "DepictionSpacerView"
 				}
 			],
@@ -78,7 +78,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.0",
+					"title": "2.8",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
