@@ -15,3 +15,23 @@ Depiction: https://shiarahmed.github.io/test/depictions/?p=test
 Installed-Size: 25
 Name: YouTMask
 SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
+
+
+
+Package: com.repo3.Mask
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: jafaar hasoon
+Depends: mobilesubstrate
+Filename: ./debs/com.repo3.PUBG_1.8_iphoneos-arm.deb
+Size: 6493
+MD5sum: d27915bc453a46d5797d64c1b532c54d
+SHA1: a9b44f076c259c050b48e5c6fc6dc01b623956d3
+SHA256: 1d36acc67cad7aff0dc43d3743baad0091062d5a7c91f9b4a94554941cd02f6f
+Section: PUBG HACK
+Description: An awesome MobileSubstrate tweak!
+Author: jafaar hasoon
+Depiction: https://shiarahmed.github.io/test/depictions/?p=test
+Installed-Size: 35
+Name: PUBG_0.17.0
+SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
