@@ -1,4 +1,4 @@
-Package: com.repo3.akmask
+Package: com.shiarahmed.hack
 Version: 2.8
 Architecture: iphoneos-arm
 Maintainer: jafaar hasoon
@@ -13,5 +13,5 @@ Description: An awesome MobileSubstrate tweak!
 Author: jafaar hasoon
 Depiction: https://shiarahmed.github.io/test/depictions/?p=test
 Installed-Size: 84
-Name: Snapchat
+Name: hack
 SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
