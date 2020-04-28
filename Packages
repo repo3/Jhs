@@ -3,15 +3,15 @@ Version: 0.3.8
 Architecture: iphoneos-arm
 Maintainer: jafaar hasoon
 Depends: mobilesubstrate
-Filename: ./debs/com.repo3.snapchat_1.0_iphoneos-arm.deb
+Filename: ./debs/1150.deb
 Size: 580444
 MD5sum: a840d2d554b91da53f7cab83042c8246
 SHA1: e60c9ff1cb4c98f051fa4c26a548e344ff1795f7
 SHA256: 331fabb26822a18d77c19ebb2a43be7ba0abdc572e19cd73c01c2056f7054897
 Section: PUBG Hack
-Description: An awesome MobileSubstrate tweak!
+Description: اداة اخفاء جلبريك عن التطبيقات معربه
 Author: jafaar hasoon
-Depiction: https://shiarahmed.github.io/test/depictions/?p=test
+Depiction: https://mokadam.xreop.co/view/1150
 Installed-Size: 836
 Name: FlyJB AR
 SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
