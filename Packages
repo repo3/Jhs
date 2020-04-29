@@ -1,5 +1,5 @@
 Package: com.repo3.FlyJB 
-Version: 0.3.8
+Version: 0.3.4
 Architecture: iphoneos-arm
 Maintainer: jafaar hasoon
 Depends: mobilesubstrate
