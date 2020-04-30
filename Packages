@@ -1,9 +1,9 @@
-Package: com.shiarahmed.snapchat
+Package: com.repo3.DLGMemor_12.1
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed
 Depends: mobilesubstrate
-Filename: ./debs/com.shiarahmed.snapchat_1.0_iphoneos-arm.deb
+Filename: ./debs/com.repo3.DLGMemor_12.1_iphoneos-arm.deb
 Size: 6492
 MD5sum: d27915bc453a46d5797d64c1b532c54d
 SHA1: a9b44f076c259c050b48e5c6fc6dc01b623956d3
@@ -13,7 +13,7 @@ Description: An awesome MobileSubstrate tweak!
 Author: Shiar Ahmed
 Depiction: https://shiarahmed.github.io/test/depictions/?p=test
 Installed-Size: 84
-Name: Snapchat
+Name: sae
 SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
 
 
