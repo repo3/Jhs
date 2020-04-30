@@ -1,21 +1,21 @@
 <package>
 	<id>com.shiarahmed.snapchat</id>
-	<name>Snapchat</name>
+	<name>Snap</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
-			<maxiOS>12.4</maxiOS>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.4</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Snapchat tweak</shortDescription>
+	<shortDescription>Snap pubg</shortDescription>
 	<descriptionlist>
-		<description>Snapchat test</description>
-		<description>Supports iOS 10.0 - 12.4</description>
+		<description>Snap test</description>
+		<description>Supports iOS 11.0 - 13.4</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
