@@ -1,17 +1,17 @@
-Package: com.cydia.kiiimo.org.gamegem
+Package: com.kiiimo.org.gamegem
 Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: Kiiimo <support@kiiimo.org>
 Depends: Depends  firmware (>= 8.0)
-Filename: ./debs/1965.deb
+Filename: ./debs/com.cydia.kiiimo.org.gamegem_1.5_iphoneos-arm.deb
 Size: 2857986
 MD5sum: 6d8aecef6c5b33b1b09284d4df4b440f
 SHA1: fcb8f6873d3ce429e6f783a67b8239d3cfcc8330
 SHA256: b6c01ea046496ca2948f4906b7c2a1054196be38d5d76d1fe13f06c1155cd9c3
 Section: Utilities
-Description: Description  Memory debug tool for iOS. Support iPhone and iPad above iOS 8.x
+Description: Description
 Author: Aidoo.TK
 Depiction: http://cydia.kiiimo.org/index.php?pid=1965
-Installed-Size: 2.7
+Installed-Size: 28
 Name: GameGem
 SileoDepiction: http://cydia.kiiimo.org/sileoview/1965
