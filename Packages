@@ -1,35 +1,17 @@
-Package: com.shiarahmed.snapc
-Version: 1.1
+Package: com.cydia.kiiimo.org.gamegem
+Version: 1.5
 Architecture: iphoneos-arm
-Maintainer: jafaar hasoon
-Depends: mobilesubstrate
-Filename: ./debs/com.shiarahmed.snapc_1.1_iphoneos-arm.deb
-Size: 6492
-MD5sum: d27915bc453a46d5797d64c1b532c54d
-SHA1: a9b44f076c259c050b48e5c6fc6dc01b623956d3
-SHA256: 1d36acc67cad7aff0dc43d3743baad0091062d5a7c91f9b4a94554941cd02f6f
-Section: Tweaks
-Description: snapchat
-Author: sarray
-Depiction: https://shiarahmed.github.io/test/depictions/?p=test
-Installed-Size: 84
-Name: Snapc
-SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
-
-Package: com.repo3.DLGMemor
-Version: 12.1
-Architecture: iphoneos-arm
-Maintainer: jafaar hasoon
-Depends: mobilesubstrate
-Filename: ./debs/com.repo3.dlgmemor_12.0_iphoneos-arm.deb
-Size: 264240
-MD5sum: dcba144fcc553e98036bf8b0481fd462
-SHA1: 9c7875a89df9da87d378e49ad5c6288ead9b9b99
-SHA256: 07e12629bd15b736db63492007f12ab8c86f2122f365a06ba2f0690e3913057b
-Section: Security
-Description: dlg hacks games
-Author: sarray
-Depiction: https://shiarahmed.github.io/test/depictions/?p=test
-Installed-Size: 258
-Name: DLGMemor
-SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
+Maintainer: Kiiimo <support@kiiimo.org>
+Depends: Depends  firmware (>= 8.0)
+Filename: ./debs/1965.deb
+Size: 2857986
+MD5sum: 6d8aecef6c5b33b1b09284d4df4b440f
+SHA1: fcb8f6873d3ce429e6f783a67b8239d3cfcc8330
+SHA256: b6c01ea046496ca2948f4906b7c2a1054196be38d5d76d1fe13f06c1155cd9c3
+Section: Utilities
+Description: Description  Memory debug tool for iOS. Support iPhone and iPad above iOS 8.x
+Author: Aidoo.TK
+Depiction: http://cydia.kiiimo.org/index.php?pid=1965
+Installed-Size: 2.7
+Name: GameGem
+SileoDepiction: http://cydia.kiiimo.org/sileoview/1965
