@@ -26,7 +26,7 @@ Size: 264240
 MD5sum: dcba144fcc553e98036bf8b0481fd462
 SHA1: 9c7875a89df9da87d378e49ad5c6288ead9b9b99
 SHA256: 07e12629bd15b736db63492007f12ab8c86f2122f365a06ba2f0690e3913057b
-Section: Hacks Game
+Section: Security
 Description: An awesome MobileSubstrate tweak!
 Author: sarray
 Depiction: https://shiarahmed.github.io/test/depictions/?p=test
