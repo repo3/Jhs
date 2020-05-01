@@ -1,17 +1,17 @@
-Package: com.kiiimo.org.gamegem
-Version: 1.5
+Package: com.shiarahmed.snapchat
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Kiiimo <support@kiiimo.org>
-Depends: Depends  firmware (>= 8.0)
-Filename: ./debs/com.cydia.kiiimo.org.gamegem_1.5_iphoneos-arm.deb
-Size: 2857986
-MD5sum: 6d8aecef6c5b33b1b09284d4df4b440f
-SHA1: fcb8f6873d3ce429e6f783a67b8239d3cfcc8330
-SHA256: b6c01ea046496ca2948f4906b7c2a1054196be38d5d76d1fe13f06c1155cd9c3
-Section: Utilities
-Description: Description
-Author: Aidoo.TK
-Depiction: http://cydia.kiiimo.org/index.php?pid=1965
-Installed-Size: 28
-Name: GameGem
-SileoDepiction: http://cydia.kiiimo.org/sileoview/1965
+Maintainer: Shiar Ahmed
+Depends: mobilesubstrate
+Filename: ./debs/com.shiarahmed.snapchat_1.0_iphoneos-arm.deb
+Size: 6492
+MD5sum: d27915bc453a46d5797d64c1b532c54d
+SHA1: a9b44f076c259c050b48e5c6fc6dc01b623956d3
+SHA256: 1d36acc67cad7aff0dc43d3743baad0091062d5a7c91f9b4a94554941cd02f6f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Shiar Ahmed
+Depiction: https://shiarahmed.github.io/test/depictions/?p=test
+Installed-Size: 84
+Name: Snapchat
+SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
