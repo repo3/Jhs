@@ -1,5 +1,5 @@
-Package: com.shiarahmed.snap
-Version: 2.0
+Package: com.shiarahmed.snapchat
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed
 Depends: mobilesubstrate
@@ -8,10 +8,10 @@ Size: 6492
 MD5sum: d27915bc453a46d5797d64c1b532c54d
 SHA1: a9b44f076c259c050b48e5c6fc6dc01b623956d3
 SHA256: 1d36acc67cad7aff0dc43d3743baad0091062d5a7c91f9b4a94554941cd02f6f
-Section: PUBG
+Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
-Author: SARRAY Ahmed
+Author: Shiar Ahmed
 Depiction: https://shiarahmed.github.io/test/depictions/?p=test
 Installed-Size: 84
-Name: Snap
+Name: Snapchat
 SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
