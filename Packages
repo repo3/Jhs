@@ -1,5 +1,5 @@
-Package: com.shiarahmed.snapchat
-Version: 1.0
+Package: com.cydia.kiiimo.org.gamegem
+Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: Shiar Ahmed
 Depends: mobilesubstrate
@@ -11,7 +11,7 @@ SHA256: b6c01ea046496ca2948f4906b7c2a1054196be38d5d76d1fe13f06c1155cd9c3
 Section: Utilities
 Description: An awesome MobileSubstrate tweak!
 Author: Shiar Ahmed
-Depiction: https://shiarahmed.github.io/test/depictions/?p=test
+Depiction: http://cydia.kiiimo.org/index.php?pid=1965
 Installed-Size: 84
 Name: GameGem
-SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
+SileoDepiction: http://cydia.kiiimo.org/sileoview/1965
