@@ -1,7 +1,7 @@
 <package>
-	<id>com.shiarahmed.snapchat</id>
-	<name>Snapchat</name>
-	<version>1.0</version>
+	<id>com.cydia.kiiimo.org.gamegem</id>
+	<name>GameGem</name>
+	<version>1.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -12,9 +12,9 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Snapchat tweak</shortDescription>
+	<shortDescription>GameGem Utilities</shortDescription>
 	<descriptionlist>
-		<description>Snapchat test</description>
+		<description>GameGem test</description>
 		<description>Supports iOS 10.0 - 12.4</description>
 	</descriptionlist>
 	<screenshots></screenshots>
