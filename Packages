@@ -1,35 +1,16 @@
-Package: com.cydia.kiiimo.org.gamegem
+Package: cydia.kiiimo.org.gamegem
 Version: 1.5
 Architecture: iphoneos-arm
-Maintainer: Shiar Ahmed
-Depends: mobilesubstrate
-Filename: ./debs/1965.deb
+Maintainer: Kiiimo <support@kiiimo.org>
+Depends: firmware (>= 8.0)
+Filename: ./debs/cydia.kiiimo.org.gamegem_1.5_iphoneos-arm.deb
 Size: 2857986
-MD5sum: 6d8aecef6c5b33b1b09284d4df4b440f
+MD5sum: 2d324bef7bfa9927c6207cd8dc4a444b
 SHA1: fcb8f6873d3ce429e6f783a67b8239d3cfcc8330
-SHA256: b6c01ea046496ca2948f4906b7c2a1054196be38d5d76d1fe13f06c1155cd9c3
+SHA256: f5e4ecb458d7790b1e32ff34b3d2ebe2c7c8f5ae4bdce17591afc74cf33cc6e3
 Section: Utilities
-Description: An awesome MobileSubstrate tweak!
-Author: Shiar Ahmed
-Depiction: http://cydia.kiiimo.org/index.php?pid=1965
-Installed-Size: 84
+Author: Aidoo.TK
+Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
 Name: GameGem
-SileoDepiction: http://cydia.kiiimo.org/sileoview/1965
+Sponsor: kiiimo.org <http://kiiimo.org>
 
-Package: com.mab.org.sarr
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: Shiar Ahmed
-Depends: mobilesubstrate
-Filename: ./debs/1965.deb
-Size: 2857986
-MD5sum: 6d8aecef6c5b33b1b09284d4df4b440f
-SHA1: fcb8f6873d3ce429e6f783a67b8239d3cfcc8330
-SHA256: b6c01ea046496ca2948f4906b7c2a1054196be38d5d76d1fe13f06c1155cd9c3
-Section: Utilities
-Description: An awesome MobileSubstrate tweak!
-Author: Shiar Ahmed
-Depiction: http://cydia.kiiimo.org/index.php?pid=1965
-Installed-Size: 84
-Name: sss
-SileoDepiction: http://cydia.kiiimo.org/sileoview/1965
