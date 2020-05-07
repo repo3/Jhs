@@ -1,3 +1,19 @@
+Package: com.repo3.Juba
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: Juba <sarray0110gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.repo3.Juba_4.1_iphoneos-arm.deb
+Size: 31516
+MD5sum: 45b224a17b060e48494eec734c03824c
+SHA1: 070a3481018c407d3670c28979f9aecf604a7a97
+SHA256: 12c444b58ba70bf1c90cef43cb7f56cb589db7475423cec5c2b2e642f130de89
+Section: Tweaks
+Description: Display battery and clock
+Author: Juba
+Installed-Size: 264
+Name: Juba
+
 Package: repo3.sarray.dlgmemor
 Version: 12.1.0
 Architecture: iphoneos-arm
