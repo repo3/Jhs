@@ -1,16 +1,16 @@
-Package: cydia.kiiimo.org.gamegem
-Version: 1.5
+Package: repo3.sarray.dlgmemorinjected
+Version: 12.1.0
 Architecture: iphoneos-arm
-Maintainer: Kiiimo <support@kiiimo.org>
-Depends: firmware (>= 8.0)
-Filename: ./debs/cydia.kiiimo.org.gamegem_1.5_iphoneos-arm.deb
-Size: 2857986
-MD5sum: 2d324bef7bfa9927c6207cd8dc4a444b
-SHA1: fcb8f6873d3ce429e6f783a67b8239d3cfcc8330
-SHA256: f5e4ecb458d7790b1e32ff34b3d2ebe2c7c8f5ae4bdce17591afc74cf33cc6e3
+Maintainer: sarray <fcn373@gmail.com>
+Depends: Hacked,games
+Conflicts: com.reop3.sarray.dlgmemorinjected
+Filename: ./debs/repo3.sarray.dlgmemorinjected_12.1.0_iphoneos-arm.deb
+Size: 264168
+MD5sum: 65ae488465460904d8edc105a5a1327d
+SHA1: ce051d7bac2ec322f5f9c13ddd38181e10860445
+SHA256: 466f0c5e953d05ce97b16c1fd0cdadc85f7225e48fffb1eb9932df7200ee6839
 Section: Utilities
-Author: Aidoo.TK
-Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
-Name: GameGem
-Sponsor: kiiimo.org <http://kiiimo.org>
+Author: Juba <sarray0110@gmail.com>
+Name: DLGMemor Injected iOS 13
+Sponsor: reop3.io <http://reop3.io>
 

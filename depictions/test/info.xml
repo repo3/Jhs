@@ -1,21 +1,21 @@
 <package>
-	<id>com.cydia.kiiimo.org.gamegem</id>
-	<name>GameGem</name>
-	<version>1.5</version>
+	<id>com.reop3.sarray.dlgmemorinjected</id>
+	<name>DLGMemor</name>
+	<version>12.1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
-			<maxiOS>12.4</maxiOS>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.4</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>GameGem Utilities</shortDescription>
+	<shortDescription>DLGMemor Injected iOS 13 Utilities</shortDescription>
 	<descriptionlist>
-		<description>GameGem test</description>
-		<description>Supports iOS 10.0 - 12.4</description>
+		<description>DLGMemor test</description>
+		<description>Supports iOS 11.0 - 13.4</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
