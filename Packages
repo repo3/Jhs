@@ -18,13 +18,13 @@ Package: repo3.sarray.dlgmemor
 Version: 12.1.0
 Architecture: iphoneos-arm
 Maintainer: sarray <fcn373@gmail.com>
-Depends: Hacked
+Depends: mobilesubstrate, preferenceloader, applist
 Conflicts: com.reop3.sarray.dlgmemor
 Filename: ./debs/repo3.sarray.dlgmemor_12.1.0_iphoneos-arm.deb
-Size: 264158
-MD5sum: aa1925282c7187bee67f877bf43185a1
-SHA1: d9e63fa2e614e6b3cc7b146b97ab347dd1db2751
-SHA256: 9125df9d8f8f0d43d38925a378cb80e946369e89e211e02af1327e2e9449c5d8
+Size: 264188
+MD5sum: 3c113381268aeb5d9ca5701fb8da6564
+SHA1: 2d1a0e1fabecca4eb3ae0ebec66c9444738643c2
+SHA256: 404f5093e8b1cd787cdf27249c896627240aed8d676a01a3c57f7dcf4404686a
 Section: Utilities
 Author: Juba <sarray0110@gmail.com>
 Name: DLGMemor Injected iOS 13
