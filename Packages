@@ -1,3 +1,19 @@
+Package: com.repo3.icons
+Version: 9.1
+Architecture: iphoneos-arm
+Maintainer: Juba<support@repo3.github>
+Conflicts: com.repo3.icone
+Filename: ./debs/com.repo3.icons_9.1_iphoneos-arm.deb
+Size: 1734962
+MD5sum: 4161f3b788620befad44a1706d15762b
+SHA1: a340526fa77199eccf33ff41f0ad6d23a8260516
+SHA256: 434e789b9c18ae0fdb8149ee113af7eede70c2219ed01dc62bd47e897ed9c2b3
+Section: System
+Author: Juba
+Essential: yes
+Name: repo3 Icon
+Sponsor: repo3.github.io <http://repo3.github.io/Jhs/>
+
 Package: repo3.sarray.dlgmemor
 Version: 12.1.0
 Architecture: iphoneos-arm
@@ -11,5 +27,6 @@ SHA1: 2d1a0e1fabecca4eb3ae0ebec66c9444738643c2
 SHA256: 404f5093e8b1cd787cdf27249c896627240aed8d676a01a3c57f7dcf4404686a
 Section: Utilities
 Author: Juba <sarray0110@gmail.com>
-Name: DLGMemor iOS 13
+Name: DLGMemor Injected iOS 13
 Sponsor: reop3.io <http://reop3.io>
+
