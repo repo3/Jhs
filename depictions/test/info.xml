@@ -1,11 +1,19 @@
 <package>
 	<id>com.reop3.sarray.dlgmemor</id>
+	<id>com.reop3.sarray.Slider</id>
 	<name>DLGMemor</name>
+	<name>Slider</name>
 	<version>12.1.0</version>
+	<version>2.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
 			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.4.1</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -17,9 +25,13 @@
 	<descriptionlist>
 		<description>DLGMemor test</description>
 		<description>Supports iOS 11.0 - 13.4</description>
+
+		<description>repo3 Icon test</description>
+		<description>Supports iOS 12.0 - 13.4.1</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
+		<change>Initial release</change>
 		<change>Initial release</change>
 	</changelog>
 	<links></links>
