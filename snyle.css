@@ -1,0 +1,35 @@
+body
+{
+margin: 0;
+padding: 0;
+background-inage: Linear-gradient (125deg, #2c3e50, #27ae60, #2980b9, #e74c3c, #8e44ad );
+background-size: 4e0 4009;
+animat 10n: bganzmat Lon 15s infinite
+
+}
+
+.text
+{
+colorz #fff;
+text-align: center;
+text-transfora: - uppercase;
+nargin: 368px 0:
+font-size: 22px;
+}
+@keyframes bganimation
+{
+0%
+{
+ background-pos ition : 0% 50%;
+}
+
+50%
+{
+background-position : 0% 50%;
+}
+
+100%
+{
+background-position: 0% 50%;
+}
+}
