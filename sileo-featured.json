@@ -4,9 +4,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://shiarahmed.github.io/assets/Banners/Dangerous.png",
-        "title": "Dangerous",
-        "package": "com.shiarahmed.dangerous",
+        "url": "https://github.com/repo3/Jhs/blob/master/CydiaIcon.png",
+        "title": "CydiaIcon",
+        "package": "com.repo3.CydiaIcon",
         "hideShadow": false
     }
   ]
