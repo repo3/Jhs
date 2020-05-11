@@ -12,7 +12,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>DLGMemor Injected iOS 13 Utilities</shortDescription>
+	<shortDescription>DLGMemor iOS 13 Utilities</shortDescription>
 	<descriptionlist>
 		<description>DLGMemor test</description>
 		<description>Supports iOS 11.0 - 13.4</description>

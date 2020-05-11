@@ -1,19 +1,3 @@
-Package: com.repo3.Juba
-Version: 4.1
-Architecture: iphoneos-arm
-Maintainer: Juba <sarray0110gmail.com>
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.repo3.Juba_4.1_iphoneos-arm.deb
-Size: 31516
-MD5sum: 45b224a17b060e48494eec734c03824c
-SHA1: 070a3481018c407d3670c28979f9aecf604a7a97
-SHA256: 12c444b58ba70bf1c90cef43cb7f56cb589db7475423cec5c2b2e642f130de89
-Section: Tweaks
-Description: Display battery and clock
-Author: Juba
-Installed-Size: 264
-Name: Juba
-
 Package: repo3.sarray.dlgmemor
 Version: 12.1.0
 Architecture: iphoneos-arm
@@ -27,6 +11,5 @@ SHA1: 2d1a0e1fabecca4eb3ae0ebec66c9444738643c2
 SHA256: 404f5093e8b1cd787cdf27249c896627240aed8d676a01a3c57f7dcf4404686a
 Section: Utilities
 Author: Juba <sarray0110@gmail.com>
-Name: DLGMemor Injected iOS 13
+Name: DLGMemor iOS 13
 Sponsor: reop3.io <http://reop3.io>
-
