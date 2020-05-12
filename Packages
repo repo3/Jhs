@@ -15,18 +15,18 @@ Name: repo3 Icon
 Sponsor: repo3.github.io <http://repo3.github.io/Jhs/>
 
 Package: com.repo3.Slider
-Version: 2.3
+Version: 2.4
 Architecture: iphoneos-arm
 Maintainer: Juba
-Filename: ./debs/com.repo3.Slider_2.3_iphoneos-arm.deb
-Size: 591046
-MD5sum: 10b09f9c064daf59cccca984e3069788
-SHA1: fac9e01d03d1a98758cf69ea69fddca305e0dac4
-SHA256: b9d0aedb377e5ec5cf7f566f0138f0f3b65f29323480d5aa1e9b53195957fe98
-Section: Hack PUBG
-Description: لا تثبتها اذا ما مركب حماية
+Filename: ./debs/com.repo3.Slider_2.4_iphoneos-arm.deb
+Size: 604500
+MD5sum: bb33772acee7cc45c4b8986fc8a3e7a5
+SHA1: bc8690c0138f1a896c928a1b0889fbab00638992
+SHA256: b18a588291c712b6539a54f14fba2973bcf30e821edd3db6791e7461ff12347a
+Section: Hack PUBG 
+Description: لا تثبتها اذا ما مركب حماية 
 Author: Ghost
-Depiction: https://github.com/repo3/Jhs/blob/master/depictions/test/info.xml
+Depiction: 
 Homepage: https://t.me/pa_vip
 Icon: file:///Applications/Cydia.app/Sections/hack2free.png
 Name: Slider 0.18.0
@@ -46,3 +46,4 @@ Section: Utilities
 Author: Juba <sarray0110@gmail.com>
 Name: DLGMemor Injected iOS 13
 Sponsor: reop3.io <http://reop3.io>
+
